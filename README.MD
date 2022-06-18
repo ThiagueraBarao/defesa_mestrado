@@ -13,7 +13,7 @@ O objetivo desta dissertação é comparar a capacidade preditiva dos modelos un
 As simulações mostraram que a capacidade preditiva dos modelos em dados fora da amostra de treinamento é em média semelhante dentro dos intervalos de confiança de 95%. No experimento com dados reais a conclusão obtida está alinhada ao observado nas simulações, a capacidade preditiva dos modelos foi similar dentro dos intervalos de confiança da média.
 Os resultados estão alinhados com as práticas de mercado onde mesmo sabendo a especificação teórica mais adequada ao conjunto de dados no treinamento, deve-se atentar para experimentos de performance fora da amostra para maior assertividade nas predições. Contudo, a amplitude dos intervalos de confiança aponta para a necessidade de realizar validações mais complexas previamente à escolha da estrutura de modelagem para predição.
 A conclusão do trabalho foi que mesmo em um conjunto de séries cointegradas, onde pela literatura econométrica existe uma orientação para modelagem via VEC, para maior assertividade das predições é necessário fazer experimentos de validação fora da amostra para escolher o modelo com maior capacidade preditiva. 
-ABSTRACT
+
 
 # Abstract:
 This work aims to compare the predictive power of the univariate ARIMA models with the multivariate VAR and VEC models under the cointegration hypothesis. The analysis was condutec on Monte Carlo simulations using statistical methods to evaluate the predictive power. A model was estimated using exchange rate (USD/BRL) and 12-month cumulative inflation (IPCA) to check the Monte Carlo simulation insights.
