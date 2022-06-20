@@ -1,12 +1,14 @@
-# Master's Defense Exam - Postgraduate Program in Economics  | Exame de Defesa de Mestrado - Programa de Pós-Graduação em Economia
-## FEDERAL UNIVERSITY OF ABC \ UNIVERSIDADE FEDERAL DO ABC (Alameda da Universidade, s/nº - Bairro Anchieta - São Bernardo do Campo - SP - Brasil - CEP: 09606-045 , Brasil )
-
+# Thiago do Carmo Nunes - Economics Master Degree
 
 ## Author : 
 THIAGO DO CARMO NUNES
 
 ## Date : 
 17JUL2022
+
+# Program:
+- Master's Defense Exam - Postgraduate Program in Economics  | Exame de Defesa de Mestrado - Programa de Pós-Graduação em Economia
+- FEDERAL UNIVERSITY OF ABC \ UNIVERSIDADE FEDERAL DO ABC (Alameda da Universidade, s/nº - Bairro Anchieta - São Bernardo do Campo - SP - Brasil - CEP: 09606-045 , Brasil )
 
 # Title: 
 COMPARISON OF THE PREDICTIVE PERFORMANCE OF ARIMA, VAR AND VEC MODELS IN COINTEGRATED TIME SERIES
