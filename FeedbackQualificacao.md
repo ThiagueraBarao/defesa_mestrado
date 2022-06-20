@@ -1,4 +1,11 @@
-Feedback: 
+
+# Qualifier Feedbacks
+
+- Date: 18/03/22
+- Presentation https://docs.google.com/presentation/d/1jKGtRdHY_crD-cjKwxmb0B6E-tRTfGY3LwjH3KrBXTs/
+
+
+## Feedbacks: 
 - Fazer uma aplicação com dados reais.
 - Reduzir o esforço cognitivo do leitor, entrar em detalhes maiores no texto
 - Intro: o que vamos fazer, como, …
