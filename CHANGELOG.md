@@ -4,7 +4,7 @@ Esse arquivo contém as principais alterações feitas na dissertação de acord
 
 # Ações
 
-## Reduzir o esforço cognitivo do LEito
+## Reduzir o esforço cognitivo do Leitor
 - Resumo e Objetivo bem direto ao ponto somente com as principais conclusões
 - Linha do tempo dos modelos que estava na introdução foi migrada para a primeira parte da metodologia.
 - Sessões com subtópicos para ficar claro ao leitor o que ele vai ler
