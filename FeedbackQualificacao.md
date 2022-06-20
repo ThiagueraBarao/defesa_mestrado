@@ -2,7 +2,8 @@
 # Qualifier Feedbacks
 
 - Date: 18/03/22
-- Presentation https://docs.google.com/presentation/d/1jKGtRdHY_crD-cjKwxmb0B6E-tRTfGY3LwjH3KrBXTs/
+- Presentation: https://docs.google.com/presentation/d/1jKGtRdHY_crD-cjKwxmb0B6E-tRTfGY3LwjH3KrBXTs/
+- Texto: https://docs.google.com/document/d/1zelMYVVmDf_ef5WuWt1DU0p_LgixSm-A/edit?usp=sharing&ouid=114081643072117899734&rtpof=true&sd=true
 
 
 ## Feedbacks: 
