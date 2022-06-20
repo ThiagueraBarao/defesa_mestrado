@@ -21,7 +21,7 @@ grid_params <- expand.grid(
 )
 
 seed <- 2022
-ite_total <- 20
+ite_total <- 1000
 
 setwd("C:/Users/thiag/Documents/1 -Mestrado/SprintFinal/Defesa/Results/")
 dir.create("MAE")
