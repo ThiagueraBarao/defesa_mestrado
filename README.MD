@@ -1,7 +1,9 @@
 # Thiago do Carmo Nunes - Economics Master Degree
 
-## Author : 
-THIAGO DO CARMO NUNES
+## Authors : 
+THIAGO DO CARMO NUNES (main)
+GUILHERME DE OLIVEIRA LIMA CAGLIARI MARQUES (advisor)
+
 
 ## Date : 
 17JUL2022
