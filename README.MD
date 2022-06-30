@@ -1,4 +1,5 @@
-# Thiago do Carmo Nunes - Economics Master Degree
+# COMPARISON OF THE PREDICTIVE PERFORMANCE OF ARIMA, VAR AND VEC MODELS IN COINTEGRATED TIME SERIES 
+## Economics Master Degree Program
 
 ## Authors : 
 - THIAGO DO CARMO NUNES (main)
