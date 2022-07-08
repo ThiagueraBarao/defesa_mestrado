@@ -5,6 +5,9 @@
 - THIAGO DO CARMO NUNES (main)
 - GUILHERME DE OLIVEIRA LIMA CAGLIARI MARQUES (advisor)
 
+# Full Text: 
+
+The full text is hosted at the following address: https://github.com/ThiagueraBarao/master_degree/tree/master/Texto/FullText.pdf
 
 ## Date : 
 22JUL2022
@@ -27,9 +30,19 @@ When comparing univariate models against two multivariate models in cointegrated
 The work concluded that even in a set of cointegrated series, where there is a guide for modeling VEC in the econometric literature, to get more assertiveness of predictions, it is necessary to do out-of-sample experiments outside the sample to choose the model with greater predictive power.
 
 
-# Full Text: 
+# Special Dedication:
 
-The full text is hosted at the following address: https://github.com/ThiagueraBarao/master_degree/tree/master/Texto/FullText.pdf
+I dedicate this work to my mother, Aparecida, who always supported me and gave me the strength to start and complete this work.
+
+Thanks to my father, Geraldo, who has always been my hero.
+
+Thanks to my work friends, who gave me the strength to complete the project from the beginning.
+
+Thanks, my advisor Guilherme, for all the wisdom imparted and for always being attending.
+
+Thanks to professor Ramon Garcia, a great facilitator and coordinator of the Masters in Economics at UFABC.
+
+---
 
 # Titulo: 
 COMPARAÇÃO DA PERFORMANCE PREDITIVA DE MODELOS ARIMA, VAR E VEC EM SÉRIES TEMPORAIS COINTEGRADAS
