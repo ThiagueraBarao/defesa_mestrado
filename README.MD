@@ -7,7 +7,8 @@
 
 # Full Text: 
 
-The full text is hosted at the following address: https://github.com/ThiagueraBarao/master_degree/tree/master/Texto/FullText.pdf
+The full text is hosted at the following address: https://github.com/ThiagueraBarao/master_degree/tree/master/Texto/Mestrado_Thiago_Nunes_V25.pdf
+
 
 ## Date : 
 22JUL2022
@@ -15,6 +16,11 @@ The full text is hosted at the following address: https://github.com/ThiagueraBa
 # Program:
 - Master's Defense Exam - Postgraduate Program in Economics  | Exame de Defesa de Mestrado - Programa de Pós-Graduação em Economia
 - FEDERAL UNIVERSITY OF ABC \ UNIVERSIDADE FEDERAL DO ABC (Alameda da Universidade, s/nº - Bairro Anchieta - São Bernardo do Campo - SP - Brasil - CEP: 09606-045 , Brasil )
+
+## Reviewers : 
+- SERGIO NARUHIKO SAKURAI (UNIVERSITY OF SÃO PAULO)
+- RICARDO BUSCARIOLLI PEREIRA (FEDERAL UNIVERSITY OF ABC)
+
 
 # Title: 
 COMPARISON OF THE PREDICTIVE PERFORMANCE OF ARIMA, VAR AND VEC MODELS IN COINTEGRATED TIME SERIES
@@ -60,7 +66,6 @@ Na comparação entre modelos univariados contra dois modelos multivariados em d
 A amplitude dos intervalos de confiança aponta para a necessidade de realizar validações mais complexas previamente à escolha da estrutura de modelagem para predição. 
 
 Concluiu-se que, mesmo em um conjunto de séries cointegradas, onde pela literatura econométrica existe uma orientação para modelagem via VEC, para maior assertividade das predições é necessário realizar experimentos de validação fora da amostra afim de escolher o modelo com maior capacidade preditiva.
-
 
 # Agradecimentos: 
 
