@@ -48,6 +48,9 @@ Thanks, my advisor Guilherme, for all the wisdom imparted and for always being a
 
 Thanks to professor Ramon Garcia, a great facilitator and coordinator of the Masters in Economics at UFABC.
 
+# DOI:
+DOI: 10.13140/RG.2.2.28601.95843
+
 ---
 
 # Titulo: 
